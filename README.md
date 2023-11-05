@@ -1,4 +1,4 @@
-# app-privacy-policy
+# App privacy policy
 
 Privacy Policy  
 ----------------
